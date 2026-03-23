@@ -8,7 +8,7 @@ public class HealthController {
 
 
     @GetMapping("/health")
-    public String checkingHealthApi(){
-        return "All is working fine";
+    public String checkingHealthApi() {
+        return "Conection is working fine";
     }
 }
