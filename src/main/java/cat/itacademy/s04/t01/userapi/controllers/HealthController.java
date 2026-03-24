@@ -10,6 +10,6 @@ public class HealthController {
 
     @GetMapping("/health")
     public Status checkingHealthApi() {
-        return new Status("Conection is working fine");
+        return new Status("OK");
     }
 }
