@@ -75,6 +75,10 @@ A web layer test using `@WebMvcTest` verifies the endpoint without starting the 
 
 ---
 
+![Working Connection](image_working_connection.png)
+
+---
+
 ## 🛠 Technologies
 
 - ☕ Java 25
